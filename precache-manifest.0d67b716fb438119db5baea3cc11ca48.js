@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "810bd32ccbd772a0c9d2",
-    "url": "/silvercar/static/css/main.e16d532d.chunk.css"
+    "revision": "6570815b6be2148f3359",
+    "url": "/silvercar/static/css/main.c4c8c284.chunk.css"
   },
   {
-    "revision": "810bd32ccbd772a0c9d2",
-    "url": "/silvercar/static/js/main.810bd32c.chunk.js"
+    "revision": "6570815b6be2148f3359",
+    "url": "/silvercar/static/js/main.6570815b.chunk.js"
   },
   {
     "revision": "a3aeda5b010bf0e4f61e",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/silvercar/static/js/runtime~main.9b81fac7.js"
   },
   {
-    "revision": "f760121eb983d8a237725b1025652581",
+    "revision": "57983a5c9c5763a865e6e1ef30ec1023",
     "url": "/silvercar/index.html"
   }
 ];
